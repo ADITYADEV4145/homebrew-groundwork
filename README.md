@@ -9,4 +9,4 @@ gw --version
 
 In a Git repository, run `gw init` and then `gw doctor` to check the installation.
 
-License: MIT, Aditya Punjani.
+License: MIT, Aditya.
